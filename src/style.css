@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0a0a0a;
+  color: #fff;
+  text-align: center;
+  padding: 2rem;
+}
+.container h1 {
+  font-size: 2.5rem;
+}
+.container p {
+  font-size: 1.2rem;
+}
+.buttons {
+  margin-top: 2rem;
+}
+.button {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background-color: #9146ff;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}
